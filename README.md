@@ -8,5 +8,4 @@ Halifax-based TPM who is:
 **Some of what I'm currently working on:**
 * 🗺️ [Travel Map](https://ryancurry.ca/travel/) – everywhere I've been (so far)
 * ❄️ [Snow Day Predictor](https://ryancurry.ca/snowday/) – for HRCE schools in Halifax
-* 🚌 [Halifax Tranist](https://ryancurry.ca/transit/) - real-time tracker for Halifax Transit
-* 
+* 🚌 [Halifax Tranist](https://ryancurry.ca/transit/) - real-time tracker for Halifax Transit 
